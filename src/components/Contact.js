@@ -4,6 +4,11 @@ export default function Contact() {
   return (
     <section className="py-20" id="contact">
       <h2 className="text-3xl font-semibold text-center mb-10">Contact</h2>
+      <div className="max-w-md mx-auto text-center mb-8 space-y-2">
+        <p>📍 Islamabad, Pakistan</p>
+        <p>📞 +92 318 7428793</p>
+        <p>✉️ Sadiasl725@gmail.com</p>
+      </div>
       <form
         action="https://formspree.io/f/mayvlzwn"
         method="POST"

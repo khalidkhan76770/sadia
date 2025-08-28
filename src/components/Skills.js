@@ -1,7 +1,14 @@
 'use client';
 import { motion } from 'framer-motion';
 
-const skills = ['JavaScript', 'React', 'Next.js', 'Tailwind CSS'];
+const skills = [
+  'Adobe Photoshop',
+  'Adobe Illustrator',
+  '3D Visualization',
+  'Motion Graphics',
+  'UI/UX',
+  'Branding Strategy',
+];
 
 export default function Skills() {
   return (

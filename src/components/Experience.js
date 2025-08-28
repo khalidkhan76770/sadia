@@ -2,9 +2,21 @@
 import { motion } from 'framer-motion';
 
 const experiences = [
-  { year: '2021', detail: 'Joined Company A as Developer.' },
-  { year: '2022', detail: 'Promoted to Senior Developer at Company A.' },
-  { year: '2023', detail: 'Started freelancing and building love-filled projects.' },
+  {
+    year: '2017 - Present',
+    detail:
+      'Freelance Graphic Designer & Illustrator on Fiverr, Upwork, and Freelancer.',
+  },
+  {
+    year: '2015 - 2019',
+    detail:
+      "Bachelor's in Product & Industrial Design, University of Engineering & Technology, Lahore.",
+  },
+  {
+    year: 'Achievements',
+    detail:
+      'Top 10% globally for Adobe Photoshop & Illustrator; featured designer for bestselling authors.',
+  },
 ];
 
 export default function Experience() {
